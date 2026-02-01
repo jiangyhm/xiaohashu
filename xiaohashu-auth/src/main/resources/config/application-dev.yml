@@ -56,4 +56,3 @@ logging:
   level:
     com.jiangy.xiaohashu.auth.domain.mapper: debug
 
-#aliyun: # 接入阿里云（发送短信使用）

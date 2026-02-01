@@ -1,0 +1,33 @@
+2026-02-01 19:42:14.471 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - Starting RedisTests using Java 21.0.6 with PID 9596 (started by 32185 in D:\Workspace\workspace-java\xiaohashu\xiaohashu-auth)
+2026-02-01 19:42:14.473 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - The following 1 profile is active: "dev"
+2026-02-01 19:42:15.879 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-02-01 19:42:15.884 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-02-01 19:42:15.949 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 0 Redis repository interfaces.
+2026-02-01 19:42:18.746 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2026-02-01 19:42:19.444 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2026-02-01 19:42:20.182 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - Started RedisTests in 6.862 seconds (process running for 9.28)
+2026-02-01 19:42:21.368 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2026-02-01 19:42:21.379 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2026-02-01 19:43:23.239 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - Starting RedisTests using Java 21.0.6 with PID 28520 (started by 32185 in D:\Workspace\workspace-java\xiaohashu\xiaohashu-auth)
+2026-02-01 19:43:23.241 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - The following 1 profile is active: "dev"
+2026-02-01 19:43:24.382 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-02-01 19:43:24.388 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-02-01 19:43:24.440 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+2026-02-01 19:43:26.758 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2026-02-01 19:43:27.402 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2026-02-01 19:43:28.011 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - Started RedisTests in 5.504 seconds (process running for 7.479)
+2026-02-01 19:43:28.846 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - value 值：犬小哈
+2026-02-01 19:43:28.890 [main] INFO  com.jiangy.xiaohashu.auth.RedisTests - key 是否存在：false
+2026-02-01 19:43:28.916 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2026-02-01 19:43:28.925 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2026-02-01 20:00:50.651 [main] INFO  c.j.xiaohashu.auth.ThreadPoolTaskExecutorTests - Starting ThreadPoolTaskExecutorTests using Java 21.0.6 with PID 19868 (started by 32185 in D:\Workspace\workspace-java\xiaohashu\xiaohashu-auth)
+2026-02-01 20:00:50.653 [main] INFO  c.j.xiaohashu.auth.ThreadPoolTaskExecutorTests - The following 1 profile is active: "dev"
+2026-02-01 20:00:51.629 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-02-01 20:00:51.633 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-02-01 20:00:51.671 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2026-02-01 20:00:53.503 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2026-02-01 20:00:54.090 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2026-02-01 20:00:54.843 [main] INFO  c.j.xiaohashu.auth.ThreadPoolTaskExecutorTests - Started ThreadPoolTaskExecutorTests in 4.921 seconds (process running for 6.585)
+2026-02-01 20:00:55.214 [AuthExecutor-1] INFO  c.j.xiaohashu.auth.ThreadPoolTaskExecutorTests - 异步线程中说: 犬小哈专栏
+2026-02-01 20:00:55.251 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2026-02-01 20:00:55.264 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

@@ -25,6 +25,7 @@
         <module>xiaohashu-spring-boot-starter-biz-operationlog</module>
         <!-- Jackson 组件 -->
         <module>xiaohashu-spring-boot-starter-jackson</module>
+        <module>xiaohashu-spring-boot-biz-context</module>
         <!-- 接口日志组件 -->
     </modules>
     <dependencies>

@@ -1,0 +1,2 @@
+com.jiangy.xiaohashu.framework.biz.context.config.ContextAutoConfiguration
+com.jiangy.xiaohashu.framework.biz.context.config.FeignContextAutoConfiguration
